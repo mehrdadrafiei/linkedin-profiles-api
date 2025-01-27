@@ -137,9 +137,10 @@ curl -X GET "http://localhost:5000/api/profiles?page=1&per_page=5"
 
 ```bash
 curl -X GET "http://localhost:5000/api/profiles/{your_profile_id}"
-
+```
 
 ### Search Profiles
 
 ```bash
 curl -X GET "http://localhost:5000/api/profiles/search?query=Delhi
+```
