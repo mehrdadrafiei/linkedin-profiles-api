@@ -122,6 +122,7 @@ http://localhost:5000/api
   "per_page": 10,
   "total": 100
 }
+```
 
 ---
 
